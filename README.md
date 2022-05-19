@@ -1,1 +1,2 @@
 # Assign-04-PHP-NameOfProgram
+(https://github.com/ICS20-Programming-Angelo-Pintilie/Assign-04-PHP-NameOfProgram/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com/ICS20-Programming-Angelo-Pintilie/Assign-04-PHP-NameOfProgram/actions)
